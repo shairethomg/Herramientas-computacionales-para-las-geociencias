@@ -1,4 +1,4 @@
-# Datos utilizados para el poster "Herramientas-computacionales-para-las-geociencias"
+# Datos utilizados para el proyecto "Herramientas-computacionales-para-las-geociencias"
 ## Descripccion del repositorio
 Este repositorio tiene códigos en Python y los archivos de datos utilizados para los resultados para cada uno de los casos presentados, en los que se utiliza programacion en python, redes neuronales y condicionales anidados
 
