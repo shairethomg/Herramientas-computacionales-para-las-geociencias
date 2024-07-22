@@ -50,7 +50,8 @@ ecuaciones inversas no lineales, el uso de pyGIMLi permite tener mayor control s
 parámetros usados para obtener las tomografías de velocidad, y la posibilidad de integrar 
 los datos tridimensionalmente.
 
-
+## Trabajo a futuro
+Estamos desarrollando una aplicación móvil para la clasificación de suelos según el sistema ASTM. Te invitamos a probar la versión beta disponible en el siguiente [enlace](https://drive.google.com/file/d/10VYncjQQ57FzZZzey6jx4vgmsbpbNH4k/view?usp=sharing) y a compartirnos tus comentarios y sugerencias para mejorarla.
 
 ## ¿Cómo colaborar con el proyecto? 🤝
 
