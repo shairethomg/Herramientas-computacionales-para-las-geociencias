@@ -63,7 +63,7 @@ Ayúdame difundiendo. Encuentra errores y repórtalos en un issue en GitHub. Tam
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="HTML tutorial" style="width:30px;height:30px;">
 </a> </br>
 
-* **Luisa Gómez:** anagmd2019@gmail.com </br> <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAE07MuwBavSnoTThWkAInVc9Kk9Z5VFlwKg&keywords=luisa%20fernanda%20gómez&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=3b009915-2a49-49ad-9162-60c3cfa9b803&sid=9b*&spellCorrectionEnabled=true">
+* **Luisa Gómez:** luisafgomezs14@gmail.com </br> <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAE07MuwBavSnoTThWkAInVc9Kk9Z5VFlwKg&keywords=luisa%20fernanda%20gómez&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=3b009915-2a49-49ad-9162-60c3cfa9b803&sid=9b*&spellCorrectionEnabled=true">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="HTML tutorial" style="width:30px;height:30px;">
 </a> </br>
 
