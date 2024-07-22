@@ -3,7 +3,7 @@
 Este repositorio tiene códigos en Python y los archivos de datos utilizados para los resultados para cada uno de los casos presentados, en los que se utiliza programación en Python, redes neuronales y condicionales anidados
 
 ## Póster de la presentación
-Este  proyecto hace parte de nuestro póster presentado en la semana técnica de geología en la ciudad de Bucaramanga. El póster se encuentra en el siguiente [enlace]()
+Este  proyecto hace parte de nuestro póster presentado en la semana técnica de geología en la ciudad de Bucaramanga. El póster se encuentra en el siguiente [enlace](https://drive.google.com/file/d/1DKZuGG1Gkfn47HNJUKfx3B7f678pqPVi/view?usp=sharing)
 
 ## Base de datos 💾
 Todos los datos usados en este repositorio son de libre acceso, cortesía del Semillero de Investigación en Geofísica Aplicada (SIGAC) y de libre acceso proporcionado por pyGIMLi.
